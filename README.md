@@ -1,3 +1,8 @@
+# Prerequisite
+
+- Install docker-compose
+
+
 # Setup
 
 - Clone the project
