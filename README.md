@@ -14,7 +14,8 @@
 
 Tests are developed using
 - Ruby
-- [Gauge](http://getgauge.io/index.html).
+- [Gauge](http://getgauge.io/index.html)
+- Docker
 - Capybara
 - Selenium
 - Chromedriver
@@ -28,7 +29,7 @@ Tests are developed using
 - Screenshot of results:
 > ~/google_search/reports/images
 
-- VNC Viewer:
+- VNC Viewer - 
 It's possible to see the tests execution using VNC Viewer:
   * Download: https://www.realvnc.com/en/connect/download/viewer/
   * Enter VNC Server: 127.0.0.1:5900 (password: secret)
